@@ -2,7 +2,7 @@
 
 ### Problem Statement
 
-You are building a service that analyzes customer feedback using an LLM API.
+You are building a function that analyzes customer feedback using an LLM API.
 
 Feedback is stored in a CSV file with ~100,000 rows. Each row includes a `free_text` column containing raw customer comments.
 
