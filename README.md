@@ -1,4 +1,4 @@
-# Feedback Analyzer — Coding Challenge
+# Feedback Analyzer — Real-world backend processing challenge
 
 ### Problem Statement
 
